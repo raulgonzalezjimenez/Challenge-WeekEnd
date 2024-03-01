@@ -1,0 +1,23 @@
+{
+  "name": "semana1",
+  "version": "1.0.0",
+  "description": "challeng week",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "ES",
+    "Programing",
+    "Learning"
+  ],
+  "author": "raul, alberto",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "husky": "^9.0.11"
+  }
+}
