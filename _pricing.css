@@ -1,0 +1,180 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.pricing {
+  background-color: #f8f9ff;
+  width: 375px;
+  height: 1678px;
+  padding: 60px, 30px, 60px, 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.pricing h2 {
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.pricing header p {
+  font-family: Mulish;
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 16px;
+  font-weight: 400;
+  margin-inline: 2rem;
+}
+
+.pricing__basic {
+  width: 315px;
+  height: 450px;
+  gap: 30px;
+  background-color: white;
+  margin-left: 1.8rem;
+  border-radius: 18px;
+  position: relative;
+}
+
+.pricing__special {
+  width: 315px;
+  height: 450px;
+  gap: 30px;
+  background-color: #009379;
+  margin-left: 1.8rem;
+  border-radius: 18px;
+  position: relative;
+  color: white;
+}
+
+.pricing article h3 {
+  font-family: Mulish;
+  font-size: 21px;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+.pricing article img {
+  margin-left: 2rem;
+}
+
+.pricing article nav {
+  position: absolute;
+  top: 15rem;
+}
+
+.pricing__best {
+  font-family: Mulish;
+  font-size: 16px;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 0.3rem;
+}
+
+.pricing__feature {
+  font-family: Mulish;
+  font-size: 16px;
+  margin-left: 0.5rem;
+  margin-top: 1rem;
+}
+
+.pricing article a {
+  padding: 16px 50px 16px 50px;
+  background-color: #e5f4f2;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #009379;
+  font-size: 16px;
+  width: 255;
+  height: 60px;
+}
+
+.pricing-big {
+  font-family: Poppins;
+  font-size: 50px;
+  margin-left: 2rem;
+  font-weight: 700;
+}
+
+.pricing-small {
+  font-family: Mulish;
+  font-size: 16px;
+  margin-left: 0.8rem;
+}
+
+.pricing_row1 {
+  position: absolute;
+  top: 12rem;
+  font-weight: 700;
+}
+.pricing_row2 {
+  position: absolute;
+  top: 14.5rem;
+  font-weight: 700;
+}
+.pricing_row3 {
+  position: absolute;
+  top: 17rem;
+  font-weight: 700;
+}
+
+.pricing_row4 {
+  position: absolute;
+  top: 12.5rem;
+  font-weight: 700;
+}
+.pricing_row5 {
+  position: absolute;
+  top: 15rem;
+  font-weight: 700;
+}
+.pricing_row6 {
+  position: absolute;
+  top: 17.5rem;
+  font-weight: 700;
+}
+
+.pricing__link {
+  position: absolute;
+  top: 6.5rem;
+  left: 2rem;
+  width: 255px;
+  text-align: center;
+}
+
+#pricing__link {
+  position: absolute;
+  top: 6.5rem;
+  left: 2rem;
+  width: 255px;
+  text-align: center;
+  background-color: white;
+}
+
+#pricing__link2 {
+  position: absolute;
+  top: 6.5rem;
+  left: 2rem;
+  width: 255px;
+  background-color: white;
+  text-align: start;
+  padding-left: 4.5rem;
+}
+
+.pricing-arrow {
+  position: absolute;
+  top: 7.6rem;
+  left: 10.5rem;
+  background-color: white;
+}
