@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.highlighted {
+  width: 375px;
+  height: 450px;
+  padding: 30px, 30px, 60px, 30px;
+  gap: 200px;
+  background: #f8f9ff;
+
+  padding-top: 40px;
+}
+.highlightedbox {
+  width: 315px;
+  height: 360px;
+  border-radius: 20px;
+  padding: 40px, 30px, 40px, 30px;
+  gap: 40px;
+  background: #e5f4f2;
+
+  margin-left: 30px;
+}
+.highlightedtext1 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: -0.01em;
+  text-align: center;
+  padding-top: 30px;
+}
+.highlightedtext2 {
+  font-family: Mulish;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 15px;
+  padding-inline: 20px;
+}
+.highlightedbuttom {
+  position: relative;
+}
+
+.input {
+  text-align: center;
+  width: 260px;
+  height: 60px;
+  padding: 8px, 20px, 8px, 20px;
+  border-radius: 20px;
+  border: 1px;
+  gap: 12px;
+  background: #ffffff;
+  position: absolute;
+  top: -12rem;
+  right: 55px;
+}
+.subscribe {
+  width: 260px;
+  height: Fixed 60px;
+  padding: 16px 50px 16px 50px;
+  border-radius: 20px;
+  gap: 8px;
+  background-color: #009379;
+  position: absolute;
+  bottom: 55px;
+  right: 55px;
+  padding: 21px;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.highlightedbox1 {
+  position: relative;
+}
+.highlightedcorreo {
+  position: absolute;
+  bottom: 78px;
+  left: 120px;
+  color: #ffffff;
+}
