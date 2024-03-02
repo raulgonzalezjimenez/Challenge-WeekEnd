@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+body {
+  background-color: #f8f9ff;
+}
+.s1 {
+  justify-content: center;
+  width: 375px;
+  height: 1.082px;
+  padding: 50px, 30px, 50px, 30px;
+  gap: 60px;
+}
+.h1 {
+  text-align: center;
+  height: 49px;
+  width: 315px;
+  padding: 2rem;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Poppins;
+}
+.p1 {
+  width: 315px;
+  height: 96px;
+  padding: 2rem;
+  margin-bottom: 35px;
+  font-family: Mulish;
+  text-align: center;
+}
+.div1 {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  width: 260px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  position: relative;
+}
+.p2 {
+  width: 205px;
+  height: 32px;
+  justify-content: flex-start;
+  margin: 10px;
+  font-family: Mulish;
+  position: absolute;
+  left: 60px;
+  top: 12px;
+  font-size: 19px;
+}
+.div2 {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  width: 260px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.p3 {
+  width: 205px;
+  height: 32px;
+  justify-content: flex-start;
+  margin: 10px;
+  font-family: Mulish;
+  position: absolute;
+  left: 60px;
+  top: 12px;
+  font-size: 19px;
+}
+
+.div3 {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  width: 260px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  position: relative;
+}
+.p4 {
+  width: 205px;
+  height: 32px;
+  justify-content: flex-start;
+  margin: 10px;
+  font-family: Mulish;
+  position: absolute;
+  left: 60px;
+  top: 12px;
+  font-size: 19px;
+}
+
+.div4 {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  width: 260px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-top: 20px;
+  position: relative;
+}
+
+.p5 {
+  width: 205px;
+  height: 32px;
+  justify-content: flex-start;
+  margin: 10px;
+  font-family: Mulish;
+  position: absolute;
+  left: 60px;
+  top: 12px;
+  font-size: 19px;
+}
+
+.div5 {
+  display: flex;
+  align-items: center;
+  margin-top: 70px;
+}
