@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.dheader {
+  width: 1280px;
+  height: 100px;
+}
+.dheader header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+}
+.deskhero__label {
+  padding: 14px 56px 14px 56px;
+  border: 2px solid #009379;
+  background-color: #009379;
+  border-radius: 17px 17px 17px 17px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  color: white;
+  font-size: 16px;
+}
+.deskhero__contact {
+  padding: 20px 0px 14px 70px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 1rem;
+  left: 45rem;
+  color: #009379;
+  font-size: 16px;
+}
+.deskhero__how {
+  padding: 14px 56px 14px 56px;
+  border: 2px solid #e5f4f2;
+  background-color: #e5f4f2;
+  border-radius: 17px 17px 17px 17px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 1rem;
+  left: 56rem;
+  color: #009379;
+  font-size: 16px;
+}
+
+.dhero__icon {
+  background-color: #009379;
+  position: absolute;
+  right: 11rem;
+  top: 2.1rem;
+}
