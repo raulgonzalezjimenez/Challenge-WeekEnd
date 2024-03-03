@@ -969,3 +969,331 @@ address {
 .footer__social a {
   text-decoration: none;
 }
+
+.dheader {
+  width: 1280px;
+  height: 100px;
+  background-color: #f8f9ff;
+  display: none;
+}
+.dheader header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+}
+.deskhero__label {
+  padding: 14px 56px 14px 56px;
+  border: 2px solid #009379;
+  background-color: #009379;
+  border-radius: 17px 17px 17px 17px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 1rem;
+  left: 64rem;
+  color: white;
+  font-size: 16px;
+}
+.deskhero__contact {
+  padding: 14px 56px 14px 56px;
+  border: 2px solid #e5f4f2;
+  background-color: #e5f4f2;
+  border-radius: 17px 17px 17px 17px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 1rem;
+  left: 36rem;
+  color: #009379;
+  font-size: 16px;
+}
+.deskhero__how {
+  padding: 14px 56px 14px 56px;
+  border: 2px solid #e5f4f2;
+  background-color: #e5f4f2;
+  border-radius: 17px 17px 17px 17px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 1rem;
+  left: 49rem;
+  color: #009379;
+  font-size: 16px;
+}
+
+.deskhero__icon {
+  background-color: #009379;
+  position: absolute;
+  right: 10rem;
+  top: 0.9rem;
+}
+.dhero {
+  background-color: #f8f9ff;
+  width: 1280px;
+  height: 690px;
+  padding: 120px, 55px, 120px, 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+  position: relative;
+  display: none;
+}
+
+.dhero h2 {
+  font-size: 67px;
+  font-weight: 700;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  margin-left: 2rem;
+  margin-right: 550px;
+  margin-block: 130px;
+  text-align: left;
+  font-family: Poppins;
+}
+
+.dhero p {
+  position: absolute;
+  left: 2rem;
+  top: 13rem;
+  font-family: Mulish;
+  text-align: left;
+  margin-right: 550px;
+  margin-left: 2rem;
+  margin-block: 180px;
+  font-weight: 400;
+  font-size: 21px;
+}
+
+.dhero__header {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 2rem;
+  width: 315px;
+  height: 329px;
+}
+
+.dhero__label {
+  padding: 16px 50px 16px 50px;
+  border: 2px solid #009379;
+  background-color: #009379;
+  border-radius: 17px 17px 17px 17px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 31rem;
+  left: 4rem;
+  color: white;
+  font-size: 16px;
+  width: 221px;
+  height: 60px;
+  text-align: center;
+}
+
+.dhero__how {
+  padding: 16px 50px 16px 50px;
+  border: 2px solid #009379;
+  background-color: white;
+  border-radius: 20px 20px 20px 20px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: Poppins;
+  position: absolute;
+  top: 31rem;
+  left: 20rem;
+  color: #009379;
+  font-size: 16px;
+  width: 221px;
+  height: 60px;
+  text-align: center;
+}
+
+.dhero__visuals {
+  position: absolute;
+  top: 10rem;
+  right: 3rem;
+}
+
+.dhero__icon {
+  background-color: #009379;
+  position: absolute;
+  left: 6.2rem;
+  bottom: 9.7rem;
+}
+.dfeatures {
+  width: 1280px;
+  height: 690px;
+  padding: 120px 55px 120px 55px;
+  gap: 60px;
+  background: #f8f9ff;
+  position: relative;
+  display: none;
+}
+.dfeaturestexto {
+  width: 570px;
+  height: 133px;
+  gap: 20px;
+}
+.dfeaturesh1 {
+  text-align: center;
+  height: 49px;
+  width: 315px;
+  padding: 2rem;
+  font-weight: bold;
+  font-size: 38px;
+  font-family: Poppins;
+  margin-left: 32.2rem;
+  margin-top: 5px;
+}
+.dfeaturesp1 {
+  width: 550px;
+  height: 30px;
+  margin-left: 33rem;
+  font-family: Mulish;
+  font-size: 21px;
+  padding: 2.5rem;
+}
+
+.dfeaturediv1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 240px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 33.5rem;
+  top: 35px;
+  font-family: Mulish;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.dfeaturediv1 p {
+  position: absolute;
+  left: 93px;
+}
+.dfeaturediv1 img {
+  position: absolute;
+  left: 25px;
+}
+.dfeaturediv2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 240px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 50rem;
+  bottom: 64px;
+  font-family: Mulish;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.dfeaturediv2 p {
+  position: absolute;
+  left: 90px;
+}
+.dfeaturediv2 img {
+  position: absolute;
+  left: 25px;
+}
+.dfeaturediv3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 240px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 33.5rem;
+  bottom: 70px;
+  font-family: Mulish;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.dfeaturediv4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 240px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px;
+  background: #ffffff;
+  margin: 29px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 50rem;
+  bottom: 170px;
+  font-family: Mulish;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.dfeaturediv5 {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 8.5rem;
+  margin-left: 20px;
+}
+@media (width > 700px) {
+  header {
+    .navbar {
+      display: none;
+    }
+
+    .dheader {
+      display: block;
+    }
+  }
+  main {
+    .hero {
+      display: none;
+    }
+    .dhero {
+      display: flex;
+    }
+    .s1 {
+      display: none;
+    }
+    .dfeatures {
+      display: block;
+    }
+  }
+}
