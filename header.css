@@ -7,7 +7,12 @@
   font: inherit;
   vertical-align: baseline;
 }
-header {
+
+.navbar {
+  width: 375px;
+  height: 72px;
+}
+.navbar header {
   display: flex;
   justify-content: center;
   padding: 2rem;

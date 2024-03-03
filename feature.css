@@ -7,13 +7,12 @@
   font: inherit;
   vertical-align: baseline;
 }
-body {
-  background-color: #f8f9ff;
-}
+
 .s1 {
+  background-color: #f8f9ff;
   justify-content: center;
   width: 375px;
-  height: 1.082px;
+  height: 1082px;
   padding: 50px, 30px, 50px, 30px;
   gap: 60px;
 }
