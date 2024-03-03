@@ -19,14 +19,14 @@
   justify-content: space-evenly;
 }
 
-header h2 {
+.projects header h2 {
   font-family: Poppins;
   text-align: center;
   font-size: 38px;
   font-weight: 600;
 }
 
-header p {
+.projects header p {
   font-family: Mulish;
   text-align: center;
   padding-top: 1rem;
@@ -34,7 +34,7 @@ header p {
   font-size: 16px;
 }
 
-article {
+.projects article {
   width: 315px;
   height: 446px;
   background-color: white;
@@ -42,7 +42,7 @@ article {
   border-radius: 20px;
 }
 
-article h3 {
+.projects article h3 {
   font-family: Poppins;
   text-align: left;
   margin-left: 2rem;
@@ -50,7 +50,7 @@ article h3 {
   font-weight: 600;
 }
 
-article p {
+.projects article p {
   font-family: Mulish;
   text-align: left;
   margin-left: 2rem;
